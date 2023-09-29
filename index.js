@@ -7,3 +7,4 @@ const tableauMessages = ["Bonjour", "Bienvenue", "Karibu", "Hello", "Vous y ête
 // Ajoutez la condition ici
 
 //Affichez les messages ici dans la console
+console.log()
